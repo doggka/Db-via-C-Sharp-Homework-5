@@ -1,0 +1,15 @@
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\bin\Debug\Bakery.dll.config
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\bin\Debug\Bakery.dll
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\bin\Debug\Bakery.pdb
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\obj\Debug\Bakery.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\obj\Debug\Bakery.dll
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\obj\Debug\Bakery.pdb
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\obj\Debug\Bakery.Migrations.CreateDataBase.resources
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\obj\Debug\Bakery.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\obj\Debug\Bakery.Migrations.Start.resources
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\obj\Debug\Bakery.Migrations.AddAddressBakeryToCook.resources
+C:\Users\Андрей\Documents\GitHub\Db-via-C-Sharp-Homework-5\Bakery\Bakery\obj\Debug\Bakery.Migrations.AddBulkaToContext.resources
